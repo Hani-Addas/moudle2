@@ -8,6 +8,15 @@ Usage:
 def main():
     # Step 2: Create a complex data structure that holds information about me
     about_me = {
+        'name': 'Hani Addas',
+        'ID': '2458948',
+        'players': [
+            'marner',
+            'tavares',
+            'matthews'
+       
+       
+       
         # TODO: Put full name into data structure
         # TODO: Put student ID into data structure
         # TODO: Put list of 3 pizza toppings into data structure
