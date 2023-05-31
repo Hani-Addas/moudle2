@@ -10,10 +10,18 @@ def main():
     about_me = {
         'name': 'Hani Addas',
         'ID': '2458948',
-        'players': [
+        'pizza toppings': [
             'marner',
             'tavares',
             'matthews'
+        ],
+        'movie' : [
+            {
+                'title': 'The empire strikes back',
+                'genre': 'sci-fi'
+            },
+        ]
+    }
        
        
        
