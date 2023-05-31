@@ -15,19 +15,19 @@ def main():
             'tavares',
             'matthews'
         ],
-        'movie' : [
+        'movie': [
             {
                 'title': 'The empire strikes back',
                 'genre': 'sci-fi'
-            },
+            }
         ]
     }
        
        
        
-        # TODO: Put full name into data structure
-        # TODO: Put student ID into data structure
-        # TODO: Put list of 3 pizza toppings into data structure
+      # TODO: Put full name into data structure
+      # TODO: Put student ID into data structure
+      # TODO: Put list of 3 pizza toppings into data structure
         'movies': [
             # TODO: Change this to a movie you like
             {
